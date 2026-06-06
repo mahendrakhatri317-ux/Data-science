@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-# CSV file name
+#  CSV file name
 FILE_NAME = "accounts.csv"
 
 # Check file exists
