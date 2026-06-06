@@ -1,6 +1,6 @@
 # print("hello hiii kese ho 😂😂")
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>> variables 😎
+#>>>>>>>>>>>>>>>>>>>>>>>>>> variables 😎
 
 
 # variable :- Variable ek container ki tarah hota hai jo value ko store karta hai.
