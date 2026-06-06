@@ -1,4 +1,4 @@
-# # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ASSIGNMENT 01 😃
+#  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ASSIGNMENT 01 😃
 
 # 1. Write a Python program to print your name, course, and city using proper formatting.
 # Answer :
